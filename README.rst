@@ -18,6 +18,9 @@
 Turnigy
 ^^^^^^^
 
+ * `Turnigy 9XR`_
+ .. _`Turnigy 9XR`: https://github.com/rcmodelism/transmitters/blob/master/turnigy-9xr.rst
+
 .. toctree::
    :maxdepth: 1
 
