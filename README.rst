@@ -3,14 +3,38 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to RC Transmitters's documentation!
-===========================================
+Апаратура керування (Transmitters). Документація.
+=================================================
+**Дана документація покликана для збору: оглядів, відгуків, рекомендацій з налаштувань, різних типів моделей пультів. Окрім цього пропонуємо ознайомитись із деякими рекомендація з підбору апаратури керування радіо керованих моделей.**
 
-Contents:
+Бажаючих долучитись до збору інформації прошу писати на `rcmodelism[at]gmail.com`_
+
+.. _rcmodelism[at]gmail.com: rcmodelism@gmail.com
+
+
+Огляд моделей за виробником.
+----------------------------
+
+Turnigy
+^^^^^^^
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
+   turnigy-9xr
+
+
+Spektrum
+^^^^^^^^
+
+.. toctree::
+   :maxdepth: 1
+
+   spektrum-dx6i
+
+
+Як вибрати апаратуру керування.
+-------------------------------
 
 
 Indices and tables
@@ -19,4 +43,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
